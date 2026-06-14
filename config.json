@@ -1,0 +1,6 @@
+{
+    "diretorio_origem": "\\",
+    "diretorio_base_entrega": "\\",
+    "pasta_liberados_fixa": "\\",
+    "extensoes_permitidas": [".exe", ".dll", ".json"]
+}
