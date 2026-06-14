@@ -1,0 +1,518 @@
+[
+    {
+        "MODULO": "ALERTAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "APM010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "APO030",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "APONTAMENTO_PLANO_CO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "AUDIT010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "BAIXAXML",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "BALCAO010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "BALCAO_MOBILE010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CADASTRAPELOPADRAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CAD_IMPORT_ESTRU",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CAD_IMPORT_ESTRU_QUA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CALCULAATUALIZACUSTO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARGAMAQUINA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARREGAMENTO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARREGA_PECAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARREGA_PECAS_QUATER",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARREMENTOCOLETOR",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CARTACORRECAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CHECAITPEDIDO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CML010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CML_RELAT",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CML_TELAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COM010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COMCURVASABC",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COMPACTAXML",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COMRELATORIOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COMSPED",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COMTELAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CONSULTAESTOQUEGERAL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CONT010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CONTRAORDEM",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CONTRAORDEMCONTROLE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CONTROLE_TERCEIRIZAC",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COP010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COP010_B1",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COP010_B2",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "COTACAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CRM",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "CURVAS_FAT_ABC",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "DATASTREAMAPI",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "DOC_EXPORTACAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "EMAIL_TITULOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT010_COLETOR",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT010_COLETOR_PALLE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT010_EL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT010_PECAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT_010_CODBARRA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT_010_CODBARRA_COL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT_010_CODBARRA_EST",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT_POS_ESTOQUE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENT_RASTREAMENTO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ENVIARCLIENTESSITE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "EST030",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ETIQUETAMASTER",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "FIN010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "FINANCEIRO_TELAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "FOMENTO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "FORMAORIGEMDESTINO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "GERAETIQUETASPRODUTO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "GERALOTE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "IMPORTADORDATASTREAM",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INDICADORDESEMPENHO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INDICADORMETAS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INT010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRACAO_LANDZ",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRACAO_MERCOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORBI",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORBLINGV3",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORDEAPLUS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADOREASYDOC",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORMAGAZORD",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORPEDIDOWEB",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORTINY",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INTEGRADORVOCALL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "INT_CONTABIL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "LIMPAARQUIVOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "LOGISTICA010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "LOGISTICA_COMISSAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MAD010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MALA_DIRETA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MDFE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "METAS010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "METAS_PLANO_CORTE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MODULORODOU",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MONTAGEMFATURA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MOVIMENTANOTASESTOQU",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MOV_ESTOQUE_ETIQUETA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "MOV_EST_APONTAMENTOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "OCORRENCIAS010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ORIONAPI",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ORIONECUBUSAPI",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ORIONFINAPI",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "P3C",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PCP010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PCP010_EL",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PCP_FUNCOES",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PCP_POSTGRES",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PCP_RELATORIOS",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PDV010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PED010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PEDIDOSONLINE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "POSICAOLOTE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PRG",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PRG_CADASTRO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PROCURA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PROGRAMA_PEDIDO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "PROJETO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "RELATORIO_UNIFICADO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REMESSA_RETORNO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010_B1",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010_B2",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010_B3",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010_B4",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "REP010_B5",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "RMA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "ROMANEIO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "SAC010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "SEPARA_ESTOQUE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "SERV010",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "SOLICITACAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "STATUS_CLIENTE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "STATUS_PEDIDO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "SUPORTE",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "TRANSF_VENDA",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "TRAYATUALIZACAO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "USUARIO",
+        "DESCRICAO": ""
+    },
+    {
+        "MODULO": "UTILITARIOS",
+        "DESCRICAO": ""
+    }
+]
